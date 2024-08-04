@@ -4,5 +4,5 @@ Escribe una función llamada reemplazar que reciba tres argumentos: un arreglo, 
 
 ```javascript
 reemplazar([1, 2, 3, 4], 1, 3); // [1, 3, 3, 4]
-reemplazar(["Pedro", "Maria", 0, "Juan"]); // ["Juan", "Maria"]
+reemplazar(["Pedro", "Maria"], 0, "Juan"); // ["Juan", "Maria"]
 ```
